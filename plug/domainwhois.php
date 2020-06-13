@@ -1,4 +1,4 @@
-<?php if(!defined("include")){ echo '<meta http-equiv="refresh" content="0;URL=index.php">'; exit(); }
+<?php if(!defined("include")){ echo '<meta http-equiv="refresh" content="0;URL=../index.php">'; exit(); }
 
 function whois($domain){
  
